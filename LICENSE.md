@@ -1,6 +1,11 @@
+---
+layout: page
+title: License
+permalink: /license/
+---
 ### Screenlytics License
 
-### Copyright © 2025 Screenlytics
+### Copyright © 2026 Screenlytics
 
 Screenlytics is provided for personal, non-commercial use only.
 
