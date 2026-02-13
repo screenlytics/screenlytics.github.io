@@ -1,3 +1,8 @@
+---
+layout: home
+title: Screenlytics
+---
+
 ## ScreenLytics
 
 Screenlytics is a privacy-first app that helps you understand how your attention flows across your screen time.
