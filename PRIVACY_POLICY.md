@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
 ### Privacy Policy for Screenlytics
 
 Screenlytics is built with privacy as a core principle.
