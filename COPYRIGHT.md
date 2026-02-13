@@ -6,7 +6,7 @@ permalink: /copyright/
 
 ### Copyright Notice
 
-© 2025 Screenlytics. All rights reserved.
+© 2026 Screenlytics. All rights reserved.
 
 Screenlytics and its logo, design, content, and code are the intellectual property of the developer.
 
