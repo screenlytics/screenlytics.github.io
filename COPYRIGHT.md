@@ -1,3 +1,9 @@
+---
+layout: page
+title: Copyright
+permalink: /copyright/
+---
+
 ### Copyright Notice
 
 © 2025 Screenlytics. All rights reserved.
