@@ -57,4 +57,4 @@ screenlytics.app@proton.me
 
 ## © License
 
-© 2025 Screenlytics. All rights reserved.
+© 2026 Screenlytics. All rights reserved.
