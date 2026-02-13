@@ -4,39 +4,41 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-### Privacy Policy for Screenlytics
+# Privacy Policy for ScreenLytics
 
-Screenlytics is built with privacy as a core principle.
+**Effective Date: February 13, 2026**
 
-### Data Collection
+ScreenLytics is built with privacy as a core principle. This policy describes how the app handles your data.
 
-Screenlytics analyzes screen usage data locally on your device.
+## Data Collection
 
-We do not collect, sell, or share personal data.
+- ScreenLytics analyzes screen usage data **locally on your device**.
+- We do **not** collect, sell, or share personal data.
+- No usage data is sent to external servers.
 
-No usage data is sent to external servers unless explicitly stated.
+## Data Usage
 
-### Data Usage
+- All insights and analytics are generated on-device to help you understand your screen usage patterns.
+- Your data stays on your device unless you choose to export or back it up.
 
-All insights and analytics are generated to help you understand your screen usage patterns.
+## Permissions
 
-Your data stays on your device unless you choose to export or back it up.
+- ScreenLytics requests the **Usage Access** permission (`PACKAGE_USAGE_STATS`) to read app usage statistics. This is required for the app's core functionality.
+- Permissions are used **only** to enable screen time analysis and are never used beyond their intended purpose.
 
-### Third-Party Services
+## Third-Party Services
 
-Screenlytics does not use third-party analytics or tracking services.
+- ScreenLytics does **not** use third-party analytics, advertising, or tracking services.
+- No behavioral tracking or ad SDKs are included.
 
-No advertising or behavioral tracking is included.
+## Children's Privacy
 
-### Permissions
+- ScreenLytics is not directed at children under the age of 13. We do not knowingly collect any personal information from children.
 
-Permissions requested by the app are used only to enable core features such as usage analysis.
+## Changes to This Policy
 
-Permissions are never used beyond their intended purpose.
+- This privacy policy may be updated occasionally. Any changes will be reflected within the app and at this URL.
 
-### Changes
+## Contact
 
-This privacy policy may be updated occasionally. Any changes will be reflected within the app.
-
-If you have questions or concerns, contact us at:
-screenlytics.app@proton.me
+If you have questions or concerns, contact us at: **screenlytics.app@proton.me**
