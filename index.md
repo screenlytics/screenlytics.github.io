@@ -52,8 +52,7 @@ Features and visuals may change as the app matures.
 
 ## 📩 Contact
 
-For questions or feedback:
-screenlytics.app@proton.me
+For questions or feedback: [screenlytics.app@proton.me](mailto:screenlytics.app@proton.me)
 
 ## © License
 
